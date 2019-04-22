@@ -10,9 +10,6 @@
   "author": "",
   "license": "ISC",
   "homepage": "https://battlecheeze.github.io/myportfolio",
-  "bugs": {
-    "url": "https://github.com/battlecheeze/myportfolio/issues"
-  },
   "dependencies": {
     "gh-pages": "^2.0.1"
   }
